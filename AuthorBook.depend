@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1427467881 source:e:\ashmita_semesterii\data structures programs\authorbook\main.cpp
+	<iostream>
+	<cstdlib>
+	"Novel.h"
+	"TextBook.h"
+
+1427467140 e:\ashmita_semesterii\data structures programs\authorbook\author.h
+	<iostream>
+
+1427467140 e:\ashmita_semesterii\data structures programs\authorbook\book.h
+	<iostream>
+	"Author.h"
+
+1427095945 source:e:\ashmita_semesterii\data structures programs\authorbook\author.cpp
+	<iostream>
+	"Author.h"
+
+1427467140 source:e:\ashmita_semesterii\data structures programs\authorbook\book.cpp
+	<iostream>
+	"Book.h"
+
+1427467140 e:\ashmita_semesterii\data structures programs\authorbook\novel.h
+	<iostream>
+	"Book.h"
+
+1427467605 source:e:\ashmita_semesterii\data structures programs\authorbook\novel.cpp
+	<iostream>
+	"Novel.h"
+
+1427467140 e:\ashmita_semesterii\data structures programs\authorbook\textbook.h
+	<iostream>
+	"Book.h"
+
+1427467140 source:e:\ashmita_semesterii\data structures programs\authorbook\textbook.cpp
+	<iostream>
+	"TextBook.h"
+	<cstdlib>
+
